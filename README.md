@@ -57,5 +57,5 @@ jupyter notebook
 The model is trained to classify various types of food with high accuracy. Below are some sample results:
 
 ![Testing Confusion Matrix](conf_matrix.png)
-![Random Image Training](hasil train.png)
+![Random Image Training](hasil_train.png)
 
